@@ -1,4 +1,4 @@
-katza deli = []
+katz deli = []
 
 def line(array)
   if array.count == 0 
