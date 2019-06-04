@@ -7,6 +7,6 @@ def line(array)
     response = "The line is currectly:" array.each_with_index do |name, index|
       response += "#{index + 1}. #{name}"
     end
-    response
+    puts response
   end
 end
