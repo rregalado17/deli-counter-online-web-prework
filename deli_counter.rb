@@ -13,7 +13,7 @@ def line(array)
 end
 
 def take_a_number(array, name)
-  if array.count == )
+  array.push(name)
     puts "There is nobody waiting to be served!"
   else
     puts "Currently serving #{array.shift}."
