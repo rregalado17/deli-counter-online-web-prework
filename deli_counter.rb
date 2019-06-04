@@ -1,6 +1,6 @@
 def deli_counter
 
-katz deli = []
+katz_deli = []
 
 def line(array)
   if array.count == 0 
