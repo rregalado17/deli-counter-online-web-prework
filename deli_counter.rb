@@ -1,5 +1,3 @@
-def deli_counter
-
 katz_deli = []
 
 def line(array)
@@ -12,6 +10,4 @@ def line(array)
     end
     response
   end
-end
-
 end
