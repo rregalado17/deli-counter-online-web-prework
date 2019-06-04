@@ -1,4 +1,4 @@
-def 
+def deli_counter
 
 katz deli = []
 
